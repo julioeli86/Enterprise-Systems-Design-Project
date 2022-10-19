@@ -96,6 +96,7 @@ Create a business process model depicting the existing process of a person order
 
 ![My Image](Fig-001.jpg)
 
+
 # Part 2: Proposed System Design
 
 # Benchmarking
@@ -183,6 +184,7 @@ The proposed system design is provided in Figure 3. The process takes into consi
 
 ![My Image](Fig-004.jpg)
 
+
 # Part 3: Implementation Plan
 
 # Project Management Plan and Future Decisions
@@ -198,8 +200,10 @@ A proposed management plant to incorporate the new automation tools into the exi
 
 • “Covid-19 and e-Commerce: A Global Review (2021).” COVID-19 and e-Commerce: A Global Review (2021) | APCICT/ESCAP, e United Nations Conference on Trade and Development, 1 Jan. 2021, https://www.unapcict.org/resources/ictd-infobank/covid-19-and-e-commerce-global-review-2021
 
-• “Facebook Ad Objective.” Meta for Business, Meta, 1 Jan. 2022, https://www.facebook.com/business/ads/ad-objectives.
-Nussey, Virginia. “7 Steps for Building a Facebook Business Page + Additional Tips.” MobileMonkey, MobileMonkey, 4 May 2022, https://mobilemonkey.com/blog/building-a-facebook-business-page
+• “Facebook Ad Objective.” Meta for Business, Meta, 1 Jan. 2022, https://www.facebook.com/business/ads/ad-objectives
+Nussey, Virginia.
+
+• “7 Steps for Building a Facebook Business Page + Additional Tips.” MobileMonkey, MobileMonkey, 4 May 2022, https://mobilemonkey.com/blog/building-a-facebook-business-page
 
 • Connell, Adam. “13 Best Social Media Automation Tools (Comparison).” Blogging Wizard, Blogging Wizard, 11 Apr. 2022, https://bloggingwizard.com/social-media-automation-tools/
 
@@ -214,7 +218,9 @@ Nussey, Virginia. “7 Steps for Building a Facebook Business Page + Additional 
 • “Meta Business Suite: Manage Facebook and Instagram in One Place.” Meta for Business, Meta for Business, 1 Jan. 2022, https://www.facebook.com/business/tools/meta-business-suite
 
 • “Selling across Facebook, Instagram and Messenger.” Meta for Business, Meta for Business, 1 Jan. 2022, https://www.facebook.com/business/shopping.
-Council, Young Entrepreneur. “Council Post: Why Every Business Needs a Website.” Forbes, Forbes Magazine, 14 Apr. 2022, https://www.forbes.com/sites/theyec/2020/02/03/why-every-business-needs-a-website/?sh=6e89fc296e75
+Council, Young Entrepreneur.
+
+• “Council Post: Why Every Business Needs a Website.” Forbes, Forbes Magazine, 14 Apr. 2022, https://www.forbes.com/sites/theyec/2020/02/03/why-every-business-needs-a-website/?sh=6e89fc296e75
 
 • “How to Build a WhatsApp Bot in 5 Simple Steps [2022].” Freshchat Blog, Freshchat Blog, 2 Mar. 2022, https://www.freshworks.com/live-chat-software/customer-engagement/build-a-whatsapp-bot-blog/
 

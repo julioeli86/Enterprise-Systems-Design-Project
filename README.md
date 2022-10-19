@@ -41,7 +41,29 @@ Table 2 shows the list of businesses with their corresponding Facebook and Insta
 Facebook pages aim to reach some of the 2.7 billion monthly active users on Facebook. Facebook Business pages are an easier way for small and medium businesses to reach clients in a cost-effective way (Nussey, 2022). A list of the Facebook Business Pages objectives is presented below:
 
 • Reach target customers
+
 • Lower marketing costs
+
 • Able to reach customers on their phones
+
 • Increase Business Awareness
+
 • Increase Sales of products or services
+
+The main reason behind this project is to prepare the Party Supply and Rental shop businesses from San Antonio, TX to capitalize on the forecasted compound annual growth rate (CAGR) of 7.18% between 2021 and 2027 and to take advantage of the e-Commerce and digital trade increase in the United States from 11.8 to 16.1 percent during the first half of 2020 (Covid, 2021).
+
+The current system used by all the businesses has constraints that limit their opportunity to develop and grow organically. The system is not able to capitalize on the benefits that Facebook Business Pages offer to build loyal customers and create product recognition from past clients. The system highly depends on human intervention to answer chats even though five out of the six businesses have activated the messenger auto-response fixture as seen in Table 3 below.
+
+![My Image](Table-003.jpg)
+
+The system does not provide customers with an estimated price on services and products available for sale or rental. The way that the system handles customer requests for pricing takes a long time and might cause a bottleneck during peak days’ requests.
+
+An ideal system will provide clients with a Chatbot Platform that will deliver automatic responses and will be able to filter clients depending on their type of request. The same management chat system should be able to perform data analytics on data collected during chat sessions to increase ROI on targeted marketing campaigns.
+
+# Existing System Architecture
+
+All the systems used by the six businesses are mainly based on the Facebook platform. Pequeballoons, boomballoonsa, and balloonsoversa have active Instagram accounts. Softplaysatx, pequeeballoons, Balloonatiks, and BalloonsOverSA have websites promoted on their Facebook accounts. All of them are online and working with except for the pequeeballoons one. The SoftplaySA website is the most advanced one and uses the Squarespace eCommerce platform to host, support and layout the website. The website does a good job showing price information of the products and services that the business provides. The most important page of the website is the Book Form. The Book Form is designed to gather all information needed to accommodate, book, and set up rental equipment provided by SoftplaySA.
+
+Businesses with Instagram and Facebook accounts use both platforms to showcase their previous work and to display contact information like website, phone number, and email. The current system for all the businesses meets the business expectations to some extent but customer experience is poor as some improvements are needed to facilitate sales, customer satisfaction, data analytics, and customer communication.
+
+![My Image](Table-004.jpg)

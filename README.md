@@ -19,3 +19,12 @@ The project will focus on analyzing the current system used by the stores to sel
 • Able to use bots
 
 • Capable to perform data analytics
+
+
+# Part 1: Analysis of the Existing System
+
+# Enterprise Analysis
+
+The analysis was based on a total of six different businesses in the Party Supply and Rental shop business segment. All businesses are based out in San Antonio, TX. The business’s focus is the specialized tailor-made balloons and party supply rental for birthdays, weddings, company parties, BBQ parties, and special occasions events. A list of the businesses analyzed for this project is presented in Table 1 which includes the businesses’ names, as shown on Facebook, City, State, and Phone numbers.
+
+![My Image](Table-001.jpg)

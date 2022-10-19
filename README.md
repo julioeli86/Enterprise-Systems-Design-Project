@@ -67,3 +67,31 @@ All the systems used by the six businesses are mainly based on the Facebook plat
 Businesses with Instagram and Facebook accounts use both platforms to showcase their previous work and to display contact information like website, phone number, and email. The current system for all the businesses meets the business expectations to some extent but customer experience is poor as some improvements are needed to facilitate sales, customer satisfaction, data analytics, and customer communication.
 
 ![My Image](Table-004.jpg)
+
+# Existing System Performance Assessment
+
+An analysis of the system’s current performance was done using the total number of Likes and Followers on each of the Facebook and Instagram profiles for each of the businesses. The mommyscakes1982 Facebook ID had the largest amount of Likes and Followings from all the profiles. The boomballoonsa Instagram profile had the highest number of Instagram followers with a total of 4031. The BalloonsOverSA was the only business with a Google Business Profile and a physical address available. The remaining data can be seen in Table 5 below.
+
+![My Image](Table-005.jpg)
+
+Table 5 was used to perform a performance comparison between the actual system for each business and the stores’ objectives. The “reach of target customers’ objective” and “Lower Marketing Costs” were evaluated with the average number of the total Facebook likes and followers.
+
+The Facebook pages with less than 1000 Likes showed a “Needs Improvement” and the ones above 1000 showed a value of “Good”. The “Increase Business Awareness” objective was evaluated with the total number of Instagram followers. The Instagram profiles with less than 1000 were assigned “Needs Improvement”. The businesses with no active Instagram profile were assigned “N/A”. The boomballoonSA business has a total of 4031 followers so its qualification was “Good”. The “Increase Sales” objective was not possible to quantify its performance as no sales data was available.
+
+A summary of the performance comparison for each objective is presented in Table 6.
+
+![My Image](Table-006.jpg)
+
+The system being used by the stores analyzed in this project lacks consistency among them. Some of the business objectives need improvement and others could not be evaluated at all. Some of the root causes of the shortfalls with the system are the following: the system is 100% operated by humans with little interaction from automation tools, missing e-Commerce tools from social media, missing websites, lack of marketing campaigns, and no use of automation messaging platforms.
+
+The new system will focus on solving the root causes responsible for the shortfalls and will emphasize the use of Artificial Intelligence, Data Analytics, and Machine Learning to facilitate the daily tasks of employers to manage the stores and close the performance gaps shown in Table 6.
+
+# Data Analysis
+
+The current system has access to user data on the Facebook page. The platform allows to visualize mostly descriptive data from customer liking or visiting the page over a period. The data visualization is available for the page administrator to access on the Administrator Menu. Predictive and Prescriptive Analytics is not being used currently.
+
+# BPM of existing processes
+
+Create a business process model depicting the existing process of a person ordering decorations and party equipment for a birthday from the Party Supply and Rental shop via the Facebook Page from a smartphone.
+
+![My Image](Fig-001.jpg)

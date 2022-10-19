@@ -194,29 +194,29 @@ A proposed management plant to incorporate the new automation tools into the exi
 
 # References
 
-“Party Supply Rental Market Research Report by Type, by End-Use, by Region - Global Forecast to 2027 - Cumulative Impact of Covid-19.” Yahoo!, Reportlinker, 10 Jan. 2022, https://www.yahoo.com/now/party-supply-rental-market-research-134300396.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAA9HJwaEvjwhHsW_kIulzcUH3Ro5oAxjoEAfiBC64mPDpRd4UzsoQfx7Osc7krnMwWyNIzU0Ca_ZHdrzYe6ggxF8jIoJAFTnYWOODzhTeFM7fozoaqKfNdDU8O8dKLyYdTu1Q0wOHJGBJEUmn-pTIiX02u6YiuAqWZqFOilhZ9n_
+• “Party Supply Rental Market Research Report by Type, by End-Use, by Region - Global Forecast to 2027 - Cumulative Impact of Covid-19.” Yahoo!, Reportlinker, 10 Jan. 2022, https://www.yahoo.com/now/party-supply-rental-market-research-134300396.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAA9HJwaEvjwhHsW_kIulzcUH3Ro5oAxjoEAfiBC64mPDpRd4UzsoQfx7Osc7krnMwWyNIzU0Ca_ZHdrzYe6ggxF8jIoJAFTnYWOODzhTeFM7fozoaqKfNdDU8O8dKLyYdTu1Q0wOHJGBJEUmn-pTIiX02u6YiuAqWZqFOilhZ9n_
 
-“Covid-19 and e-Commerce: A Global Review (2021).” COVID-19 and e-Commerce: A Global Review (2021) | APCICT/ESCAP, e United Nations Conference on Trade and Development, 1 Jan. 2021, https://www.unapcict.org/resources/ictd-infobank/covid-19-and-e-commerce-global-review-2021
+• “Covid-19 and e-Commerce: A Global Review (2021).” COVID-19 and e-Commerce: A Global Review (2021) | APCICT/ESCAP, e United Nations Conference on Trade and Development, 1 Jan. 2021, https://www.unapcict.org/resources/ictd-infobank/covid-19-and-e-commerce-global-review-2021
 
-“Facebook Ad Objective.” Meta for Business, Meta, 1 Jan. 2022, https://www.facebook.com/business/ads/ad-objectives.
+• “Facebook Ad Objective.” Meta for Business, Meta, 1 Jan. 2022, https://www.facebook.com/business/ads/ad-objectives.
 Nussey, Virginia. “7 Steps for Building a Facebook Business Page + Additional Tips.” MobileMonkey, MobileMonkey, 4 May 2022, https://mobilemonkey.com/blog/building-a-facebook-business-page
 
-Connell, Adam. “13 Best Social Media Automation Tools (Comparison).” Blogging Wizard, Blogging Wizard, 11 Apr. 2022, https://bloggingwizard.com/social-media-automation-tools/
+• Connell, Adam. “13 Best Social Media Automation Tools (Comparison).” Blogging Wizard, Blogging Wizard, 11 Apr. 2022, https://bloggingwizard.com/social-media-automation-tools/
 
-“Buy a Domain Name with Top Hosting Providers of 2022.” Www.top10.Com, Top10.Com, 15 Aug. 2021, https://www.top10.com/hosting/domainhosting-comparison?utm_source=google&amp;kw=buy+a+website+domain&amp;c=501685428238&amp;t=search&amp;p=&amp;m=e&amp;adpos=&amp;dev=c&amp;devmod=&amp;mobval=0&amp;network=g&amp;campaignid=12443712194&amp;adgroupid=119680620218&amp;targetid=kwd-1208662631&amp;interest=&amp;physical=1010035&amp;feedid=&amp;a=17&amp;ts=hi&amp;topic=&amp;test=&amp;clicktype=&amp;gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc7eIBalo_oAcaRPnZ7wWwhJSe62eDxkgmw3wTO_EEoVHiAcTZjTHXoaAj_-EALw_wcB
+• “Buy a Domain Name with Top Hosting Providers of 2022.” Www.top10.Com, Top10.Com, 15 Aug. 2021, https://www.top10.com/hosting/domainhosting-comparison?utm_source=google&amp;kw=buy+a+website+domain&amp;c=501685428238&amp;t=search&amp;p=&amp;m=e&amp;adpos=&amp;dev=c&amp;devmod=&amp;mobval=0&amp;network=g&amp;campaignid=12443712194&amp;adgroupid=119680620218&amp;targetid=kwd-1208662631&amp;interest=&amp;physical=1010035&amp;feedid=&amp;a=17&amp;ts=hi&amp;topic=&amp;test=&amp;clicktype=&amp;gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc7eIBalo_oAcaRPnZ7wWwhJSe62eDxkgmw3wTO_EEoVHiAcTZjTHXoaAj_-EALw_wcB
 
-“Sell Products on Facebook and Instagram.” Facebook, Met Business Help Center, 1 Jan. 2022, https://www.facebook.com/business/help/626723211000233
+• “Sell Products on Facebook and Instagram.” Facebook, Met Business Help Center, 1 Jan. 2022, https://www.facebook.com/business/help/626723211000233
 
-“About Shops.” Facebook, Meta, 1 Jan. 2022, https://www.facebook.com/business/help/2343035149322466?id=1077620002609475
+• “About Shops.” Facebook, Meta, 1 Jan. 2022, https://www.facebook.com/business/help/2343035149322466?id=1077620002609475
 
-Landsberg, Noah. “15 Of the Best Whatsapp Chatbot Tools to Use in 2022.” Influencer Marketing Hub, Influencer Marketing Hub, 15 Mar. 2022, https://influencermarketinghub.com/whatsapp-chatbot-tools/
+• Landsberg, Noah. “15 Of the Best Whatsapp Chatbot Tools to Use in 2022.” Influencer Marketing Hub, Influencer Marketing Hub, 15 Mar. 2022, https://influencermarketinghub.com/whatsapp-chatbot-tools/
 
-“Meta Business Suite: Manage Facebook and Instagram in One Place.” Meta for Business, Meta for Business, 1 Jan. 2022, https://www.facebook.com/business/tools/meta-business-suite
+• “Meta Business Suite: Manage Facebook and Instagram in One Place.” Meta for Business, Meta for Business, 1 Jan. 2022, https://www.facebook.com/business/tools/meta-business-suite
 
-“Selling across Facebook, Instagram and Messenger.” Meta for Business, Meta for Business, 1 Jan. 2022, https://www.facebook.com/business/shopping.
+• “Selling across Facebook, Instagram and Messenger.” Meta for Business, Meta for Business, 1 Jan. 2022, https://www.facebook.com/business/shopping.
 Council, Young Entrepreneur. “Council Post: Why Every Business Needs a Website.” Forbes, Forbes Magazine, 14 Apr. 2022, https://www.forbes.com/sites/theyec/2020/02/03/why-every-business-needs-a-website/?sh=6e89fc296e75
 
-“How to Build a WhatsApp Bot in 5 Simple Steps [2022].” Freshchat Blog, Freshchat Blog, 2 Mar. 2022, https://www.freshworks.com/live-chat-software/customer-engagement/build-a-whatsapp-bot-blog/
+• “How to Build a WhatsApp Bot in 5 Simple Steps [2022].” Freshchat Blog, Freshchat Blog, 2 Mar. 2022, https://www.freshworks.com/live-chat-software/customer-engagement/build-a-whatsapp-bot-blog/
 
 
 

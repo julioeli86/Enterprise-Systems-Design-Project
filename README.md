@@ -112,4 +112,96 @@ Automation tools are available to some extent within the Facebook and Instagram 
 
 The growth of the Digital Market and Social Media economies have facilitated the creation of social media automation tools. These tools can be used if the Meta Business Suite solution does not meet the requirements of your company or business. Table 8 provides a list of thirteen social media automation tools available on the market to help you manage your social media profiles.
 
+![My Image](Table-008.jpg)
+
+Social media can bring huge dynamism to businesses’ efforts to increase sales. Meta has developed technology capable to help users sell their products and services on
+its platforms, Facebook, Instagram, and Messenger. Meta provides a seller resource library to help entrepreneurs to create their social media shops. It is possible to use social media content as the main advertisement channel for your products by adding sell buttons to digital content (Selling, 2022).
+
+A detailed process of how to enable your Facebook and Instagram shops using Meta technology is provided in Fig 2. The image was provided from a Meta website.
+
+![My Image](Fig-002.jpg)
+
+Four of the six businesses analyzed in this project have websites advertised on their social media profiles. Table 3 provides the link for each of those websites. The pbdecorations.com/ website does not work. The Softplaysa’s website uses the SquareSpace platform to support its website.
+
+The website can acquire information from clients and book events for them. The remaining two websites are just informative and do not support interaction between customers and sellers.
+
+Having a well-designed and working website brings a lot of benefits to your business or company. The quality really matters when talking about websites (Council, 2022). The following is a list of the benefits that businesses have when a business website is available:
+
+• Credibility – Increase your business credibility
+
+• Brand – Showcasing your brand
+
+• Leads – Increase sales
+
+• Organic Traffic – Able to show up in Google
+
+• Saving Time + Customer Service – Increase productivity and customer experience
+
+• Updates and Announcements – Information is readily available to customers
+
+• Digital Marketing – Have a landing page for your marketing campaigns
+
+Table 9 provides a list of companies that provide domain hosting for websites. A brief description of each company is available in the second column of the table (Buy, 2021).
+
+![My Image](Table-009.jpg)
+
+The use of automation messaging platforms helps businesses to have a happier customer base. Clients might or might not have a preferred messaging channel so is wise to have your business capable to support any of the most used messaging channels: Messenger, Instagram Direct, Text Messages, and WhatsApp.
+
+This section will focus on reviewing chatbots for WhatsApp the largest real-time messaging app. A chatbot is a software designed to be able to automatically answer predefined questions about products and services. A WhatsApp Bot is available with a WhatsApp Business API.
+
+A bot allows businesses to assist customers 24/7 and help increase productivity and efficiency (How, 2022). A list of the benefits that the WhatsApp bot provides to businesses is presented below:
+
+• Reduce response time
+
+• Automate commonly asked questions
+
+• Automate product suggestions
+
+• Reduce cart abandonment rate
+
+• Help & Support
+
+Several companies provide different solutions to bring chatbots to WhatsAPP. Chatbots are designed to help businesses increase sales and reach more customers on their preferred messaging platform (Landsberg, 2022). A list of eight different Chatbot tools available in the market is provided in Table 10.
+
+![My Image](Table-010.jpg)
+
+# Proposed System Architecture and Validation
+
+The proposed new system architecture will be based on automation tools to help store owners to make their businesses more efficient and help them grow organically. Table 11 provides the e-Commerce process steps and the proposed new system tools. The new design aims to use new technologies to be able to provide more capabilities to the businesses and provided them with a better return on investment.
+
+![My Image](Table-011.jpg)
+
+![My Image](Fig-003.jpg)
+
+# Data Analysis
+
+The new automation tools will be able to provide data analytics for the data acquired during the process. Some of the automation tools perform prescriptive analytics of the data collected. Data sets can be extracted from the automation tools to perform data analytics on different software. Descriptive, predictive, and prescriptive analytics of data set from the new system designed for the Party Supply and Rental shop businesses.
+
+# BPM of New Processes
+
+The proposed system design is provided in Figure 3. The process takes into consideration the Chatbot Messaging System and the Automation tool. Both systems will provide more dynamism to the stores.
+
+![My Image](Fig-004.jpg)
+
+# Part 3: Implementation Plan
+
+# Project Management Plan and Future Decisions
+
+A proposed management plant to incorporate the new automation tools into the existing system is proposed in Figure 5. The time required would be about 1 week to complete all tasks. The budget for the project would be about $1,000 USD to count for the implementation of the Automation tools and to pay for the first 3 months of membership charges. In addition, an advertising campaign of $20.00 USD per week for three months is considered on the budget.
+
+![My Image](Fig-005.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

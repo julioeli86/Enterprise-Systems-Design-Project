@@ -95,3 +95,21 @@ The current system has access to user data on the Facebook page. The platform al
 Create a business process model depicting the existing process of a person ordering decorations and party equipment for a birthday from the Party Supply and Rental shop via the Facebook Page from a smartphone.
 
 ![My Image](Fig-001.jpg)
+
+# Part 2: Proposed System Design
+
+# Benchmarking
+
+The proposed New System Design looks to solve the root causes responsible for the shortfalls with the old system. Table 7 provides a summary of the Root Causes and a Proposed Solution, Tool, or Software for each of the causes.
+
+![My Image](Table-007.jpg)
+
+Social Media is a real ally when trying to start promoting your medium or small businesses. Social Media is free and can provide a lot of exposure for your products and services. At the same time, social media can demand a lot of time from your daily routine and take time from your creative process. Automation tools are the best way to help you manage your social media profiles to increase efficiency, improve your return on investment (ROI), and get better customer satisfaction from your clients (Connell, 2022).
+
+Automation tools are available to some extent within the Facebook and Instagram Platforms. Meta has focused on adding new features to help entrepreneurs develop their businesses. The Meta Business Suite is the answer from Meta to help businesses to manage their social media business activity from one place. The Meta Business Suite is a free tool that helps businesses to manage their Facebook, Instagram, and Messenger activity from one tool (Meta, 2022).
+
+# Determination of Solution Approaches and Requirement Analysis
+
+The growth of the Digital Market and Social Media economies have facilitated the creation of social media automation tools. These tools can be used if the Meta Business Suite solution does not meet the requirements of your company or business. Table 8 provides a list of thirteen social media automation tools available on the market to help you manage your social media profiles.
+
+
